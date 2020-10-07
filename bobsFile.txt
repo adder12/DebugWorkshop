@@ -1,1 +1,2 @@
 this is bobs file 
+Alices tries to edit bobs file
